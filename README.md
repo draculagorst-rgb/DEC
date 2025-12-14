@@ -10,12 +10,12 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 <div align="center"> 
   <a href="https://youtube.com/@mr_unique_hacker"> 
-    <img src="https://github.com/mruniquehacker/DARK-XMD/blob/main/assets/bot_image.jpg" alt="DARK XMD" height="300"> 
+    <img src="https://github.com/mrdark/DARK-XMD/blob/main/assets/bot_image.jpg" alt="DARK XMD" height="300"> 
   </a> 
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/mruniquehacker?style=for-the-badge&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/mrdark?style=for-the-badge&label=Followers" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/mruniquehacker/DARK-XMD?style=for-the-badge&label=Stars" alt="Stars"/>
   <img src="https://img.shields.io/github/forks/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Forks" alt="Forks"/>
   <img src="https://img.shields.io/github/watchers/mruniquehacker/DARK-XMD?style=for-the-badge&label=Watchers" alt="Watchers"/>
